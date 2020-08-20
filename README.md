@@ -53,9 +53,13 @@ In order to go to the assignment, you need to load the assignment in a new windo
 
 Clicking on the grey bar will take you into IllumiDesk to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding!
 
+This is what a Jupyter Notebook looks like:
+
+<img src="images/jupyter.png" width=500>
+
 ## Lab Solutions
 
-We provide example solutions for each Lab assignment - **be very careful about when & how you use these**! You may be tempted to go look at the solution immediately when you don't know what to do or your code isn't working. Learning how to persevere and solve coding problems is one of the most important skills you will learn as a data scientist! You won't always be able to look up a correct solution to problems you encounter during a technical interview or on the job, so don't let yourself fall into the habit.
+We provide solutions for each Lab - these are Jupyter Notebooks (like above) with working code filled in. **Be very careful about when & how you use these**! You may be tempted to go look at the solution immediately when you don't know what to do or your code isn't working. Learning how to persevere and solve coding problems is one of the most important skills you will learn as a data scientist! You won't always be able to look up a correct solution to problems you encounter during a technical interview or on the job, so don't let yourself fall into the habit.
 
 So why do we provide solutions? Solutions can help you get unstuck once you've exhausted your problem solving resources. Sometimes it's not worth your time or energy to keep trying to solve a problem, especially if the problem ends up being something minor like a typo. In general, if you're not making any progress after 10-20 minutes then you should reach out for help, either by asking a peer or looking at a solution. When you do look at a solution, read just enough to get unstuck and then continue on your own.
 
@@ -67,11 +71,6 @@ From the GitHub repository, click the branch dropdown to switch to the `solution
 
 <img src="images/github_branches.png" width=500>
 
-## Jupyter Notebooks
-
-Before we dive in, this is what a Jupyter Notebook looks like:
-
-<img src="images/jupyter.png" width=500>
 
 Great - enough _talking_, let's dive right into your first Jupyter Notebook in the next Assignment!
 
