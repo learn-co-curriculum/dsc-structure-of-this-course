@@ -57,7 +57,7 @@ Clicking on the grey bar will take you into IllumiDesk to work on a **Jupyter No
 
 We provide example solutions for each Lab assignment - **be very careful about when & how you use these**! You may be tempted to go look at the solution immediately when you don't know what to do or your code isn't working. Learning how to persevere and solve coding problems is one of the most important skills you will learn as a data scientist! You won't always be able to look up a correct solution to problems you encounter during a technical interview or on the job, so don't let yourself fall into the habit.
 
-So why do we provide solutions? Solutions can help you get unstuck once you've exhausted your problem solving resources. Sometimes it's not worth your time or energy to keep banging your head against the wall, especially if the problem is something minor like a typo. Generally speaking, you should try to solve coding problems on your own for about 10 minutes before reaching out for help, either by asking a peer or looking at a lab solution. When you do look at a lab solution, read just enough to get unstuck and then continue on your own.
+So why do we provide solutions? Solutions can help you get unstuck once you've exhausted your problem solving resources. Sometimes it's not worth your time or energy to keep trying to solve a problem, especially if the problem ends up being something minor like a typo. In general, if you're not making any progress after 10-20 minutes then you should reach out for help, either by asking a peer or looking at a solution. When you do look at a solution, read just enough to get unstuck and then continue on your own.
 
 To access a Lab solution, click the GitHub icon to go to the Lab's GitHub repository.
 
