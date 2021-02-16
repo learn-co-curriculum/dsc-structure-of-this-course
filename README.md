@@ -41,6 +41,8 @@ The quiz icon looks like this:
 
 <img src="images/quiz.png" width=70>
 
+
+
 ## Assignments: Meet IllumiDesk!
 
 With any assignment that you open, this is what you'll see:
@@ -56,6 +58,14 @@ Clicking on the grey bar will take you into IllumiDesk to work on a **Jupyter No
 This is what a Jupyter Notebook looks like:
 
 <img src="images/jupyter.png" width=500>
+
+## Pre-work Review!
+
+Throughout Phase 1 you will notice that some lesson titles have a book emoji at the end.  In preparation for your first day of class, you probably spent time going through our pre-work section where you were introduced to some of the fundamentals of Python and some of the tools of a data scientist.  In Phase 1 you will encounter some of these lessons again.  You will know that this is a lesson you may have seen before by the presence of the book emoji at the end of the title.  These lessons are important, and worth the review, but if you are confident that you understand the material, you can simply mark them as done and continue on to the next lesson.
+
+The book emoji looks like this:
+
+<img src="images/books_emoji.png" width=70>
 
 ## Lab Solutions
 
