@@ -65,7 +65,7 @@ Throughout Phase 1 you will notice that some lesson titles have a book emoji at 
 
 The book emoji looks like this:
 
-<img src="images/books_emoji.png" width=70>
+<img src="images/books_emoji.png" width=500>
 
 ## Lab Solutions
 
