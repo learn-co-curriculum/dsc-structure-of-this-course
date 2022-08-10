@@ -61,7 +61,7 @@ This is what a Jupyter Notebook looks like:
 
 ## Prep Review!
 
-Throughout Phase 1 you will notice that some lesson titles have a book emoji at the end.  In preparation for your first day of class, you spent time going through Flatiron School’s Data Science Prep. In this Prep, you you were introduced to some of the fundamentals of Python and other tools you’ll need as a Data Scientist. In Phase 1 you will encounter some of these lessons again.  You will know that this is a lesson you may have seen before by the presence of the book emoji at the end of the title.  These lessons are important, and worth the review, but if you are confident that you understand the material, you can simply mark them as done and continue on to the next lesson.
+Throughout Phase 1 you will notice that some lesson titles have a book emoji at the end.  In preparation for your first day of class, you spent time going through Flatiron School’s Data Science Pre-Work. In this Pre-Work, you were introduced to some of the fundamentals of Python and other tools you’ll need as a Data Scientist. In Phase 1 you will encounter some of these lessons again.  You will know that this is a lesson you may have seen before by the presence of the book emoji at the end of the title.  These lessons are important, and worth the review, but if you are confident that you understand the material, you can simply mark them as done and continue on to the next lesson.
 
 The book emoji looks like this:
 
