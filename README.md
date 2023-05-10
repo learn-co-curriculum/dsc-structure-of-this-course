@@ -50,13 +50,13 @@ In order to go to the assignment, you need to load the assignment in a new windo
 
 <img src="images/SC_SC_02.png" width=500>
 
-Clicking on the grey bar will take you into IllumiDesk to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding!
+Clicking on the grey bar will take you into Saturn Cloud to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding!
 
 The first time you spin up the server for your current session, you'll need to wait about 30 - 45 seconds. While you wait, you'll see this.
 
 <img src="images/SC_SC_03.png" width=500>
 
-Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. CloudSaturn will automatically open the .ipynb file in a Jupyter Notebook.
+Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. Saturn Cloud will automatically open the .ipynb file in a Jupyter Notebook.
 
 <img src="images/SC_SC_04.png" width=500>
 
