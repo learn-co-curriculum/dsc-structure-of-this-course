@@ -44,21 +44,21 @@ The quiz icon looks like this:
 
 With any assignment that you open, this is what you'll see:
 
-<img src="images/SC_SC_01.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_01.png" width=500>
 
 In order to go to the assignment, you need to load the assignment in a new window by clicking on the grey bar:
 
-<img src="images/SC_SC_02.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_02.png" width=500>
 
 Clicking on the grey bar will take you into Saturn Cloud to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding.
 
 The first time you spin up the server for your current session, you'll need to wait about 30 - 45 seconds. While you wait, you'll see this.
 
-<img src="images/SC_SC_03.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_03.png" width=500>
 
 Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. Saturn Cloud will automatically open the .ipynb file in a Jupyter Notebook.
 
-<img src="images/SC_SC_04.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_04.png" width=500>
 
 Note: You can see that you are running on Saturn's server with Python 3.
 
@@ -70,11 +70,11 @@ We provide solutions for each Lab to help you get unstuck when all else fails. L
 
 To access a Lab solution, click the GitHub icon to go to the Lab's GitHub repository.
 
-<img src="images/SC_SC_05.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_05.png" width=500>
 
 From the GitHub repository, click the branch dropdown to switch to the `solution` branch.
 
-<img src="images/github_branches.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/github_branches.png" width=500>
 
 
 Great - enough _talking_, let's dive right into your first Jupyter Notebook in the next Assignment.
