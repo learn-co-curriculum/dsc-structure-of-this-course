@@ -44,7 +44,7 @@ The quiz icon looks like this:
 
 With any assignment that you open, this is what you'll see:
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/blob/curriculum/images/SC_SC_01.png" width=500>
+<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/blob/master/images/SC_SC_01.png" width=500>
 
 In order to go to the assignment, you need to load the assignment in a new window by clicking on the grey bar:
 
