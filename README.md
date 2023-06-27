@@ -1,4 +1,4 @@
-# The Structure of This Course
+# The Structure of this Course
 
 ## Introduction
 
