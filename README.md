@@ -58,7 +58,7 @@ The first time you spin up the server for your current session, you'll need to w
 
 Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. Saturn Cloud will automatically open the .ipynb file in a Jupyter Notebook.
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/SC_SC_04.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_04.png/SC_SC_04.png" width=500>
 
 Note: You can see that you are running on Saturn's server with Python 3.
 
