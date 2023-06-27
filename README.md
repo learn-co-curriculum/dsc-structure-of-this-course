@@ -17,11 +17,11 @@ There are two main types of materials in this course: **Pages** and **Assignment
 
 You can recognize a **Page** by the following icon:
 
-<img src="images/page.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/page.png/page.png" width=70>
 
 And an **Assignment** by the following icon:
 
-<img src="images/assignment.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/assignment.png/assignment.png" width=70>
 
 **Pages** contain _Lessons_, and these lessons are mainly about giving you tons of information to absorb. In these lessons you'll be reading text and sometimes watching videos (note that what you're reading now is a Page). There is really not much more about it, all you need to do is to read them in Canvas. Enjoy.
 
@@ -32,13 +32,13 @@ Often, you'll be required to write code. This is where **Assignments** come in. 
 
 You can easily tell if an assignment is a _Code Lesson_ or a _Lab_ from the title and the organization. If the title ends with "Lab", it's a lab. Additionally, Labs are indented. In the image below, you see a Code Lesson followed by a Lab.
 
-<img src="images/labs.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/labs.png/labs.png" width=500>
 
 Note that there is a third type of content that hasn't been discussed: a **Quiz**. Quizzes are less prevalent than Assignments or Pages, but they're important, as they contain questions for you to answer to reinforce your learning.
 
 The quiz icon looks like this:
 
-<img src="images/quiz.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/quiz.png/quiz.png" width=70>
 
 ## Assignments: Meet SaturnCloud.
 
@@ -48,13 +48,13 @@ With any assignment that you open, this is what you'll see:
 
 In order to go to the assignment, you need to load the assignment in a new window by clicking on the grey bar:
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/SC_SC_02.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_02.png/SC_SC_02.png" width=500>
 
 Clicking on the grey bar will take you into Saturn Cloud to work on a **Jupyter Notebook**, a document-like application that allows you to do live coding.
 
 The first time you spin up the server for your current session, you'll need to wait about 30 - 45 seconds. While you wait, you'll see this.
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/SC_SC_03.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_03.png/SC_SC_03.png" width=500>
 
 Once you have connected to the server, or if you already are connected to it, then this is what a Jupyter Notebook looks like. Saturn Cloud will automatically open the .ipynb file in a Jupyter Notebook.
 
@@ -70,11 +70,11 @@ We provide solutions for each Lab to help you get unstuck when all else fails. L
 
 To access a Lab solution, click the GitHub icon to go to the Lab's GitHub repository.
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/SC_SC_05.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/SC_SC_05.png/SC_SC_05.png" width=500>
 
 From the GitHub repository, click the branch dropdown to switch to the `solution` branch.
 
-<img src="https://github.com/learn-co-curriculum/dsc-structure-of-this-course/tree/master/images/images/github_branches.png" width=500>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/github_branches.png/github_branches.png" width=500>
 
 
 Great - enough _talking_, let's dive right into your first Jupyter Notebook in the next Assignment.
